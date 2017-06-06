@@ -1,0 +1,26 @@
+body {
+	  font-family: Impact
+  }
+  div {
+	    max-width:80%;
+    }
+    input[type="text"] {
+	      width: 30%;
+	        margin-top: 10px;
+	}
+	#Address {
+		  height: 100px;
+	  }
+	  label {
+		    display: inline-block;
+		      width: 30%;
+		        
+		        text-align: right;
+			  
+		}
+
+		#check {
+			  width: 50%;
+			    margin: 5px 0;
+			      text-align: left
+		      }
